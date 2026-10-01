@@ -30,11 +30,11 @@ The platform was developed for orthotopic implantation of glioma cells into the 
 
 ## Repository version
 
-The version of this repository corresponding to the manuscript and Supplementary Table S1 is:
+The version of this repository corresponding to the manuscript and Supplementary Table S1 is tagged as:
 
-`f34d6b7ea432c8ee8b4362a2daa8b9564552c69f`
+`v1.0-manuscript`
 
-This commit should be used when reproducing the configuration described in the manuscript.
+This version should be used when reproducing the configuration described in the manuscript.
 
 ---
 
